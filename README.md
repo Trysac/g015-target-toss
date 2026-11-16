@@ -22,12 +22,12 @@ Junior Programmer pathway**, and was rebuilt on that idea as an original game (s
 
 ## Play it
 
-- **In your browser:** [trysac.github.io/Unit-5-User-Interface](https://trysac.github.io/Unit-5-User-Interface/)
+- **In your browser:** [trysac.github.io/g015-target-toss](https://trysac.github.io/g015-target-toss/)
 - **On itch.io:** [trysac.itch.io/target-toss](https://trysac.itch.io/target-toss)
 - **Get the code:** fork this repository, or clone it:
 
   ```bash
-  git clone https://github.com/Trysac/Unit-5-User-Interface.git
+  git clone https://github.com/Trysac/g015-target-toss.git
   ```
 
 ## Run it
